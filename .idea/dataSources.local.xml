@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - mysql@localhost" uuid="ccfc2589-62db-4b97-98d6-c7128e64cd7e">
+      <secret-storage>memory</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>mysql.*</schema-pattern>
+      <default-schemas>mysql.*</default-schemas>
+    </data-source>
+    <data-source name="MySQL - demo@pulse-demo-db.cl3wimhza9d9.us-west-2.rds.amazonaws.com" uuid="789bd880-b730-46a0-b485-b5cfd6798f20">
+      <secret-storage>memory</secret-storage>
+      <user-name>admin</user-name>
+      <schema-pattern>demo.*</schema-pattern>
+      <default-schemas>demo.*</default-schemas>
+    </data-source>
+  </component>
+</project>
