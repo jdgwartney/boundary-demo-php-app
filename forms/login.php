@@ -19,7 +19,7 @@
 </head>
 <body>
 <div class="container">
-<h1><?php echo gethostname() ?></h1>
+<h1>Vintage Guitar Shack></h1>
 </div>
 
 <form class="form-horizontal" role="form">
