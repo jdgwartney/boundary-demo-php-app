@@ -1,7 +1,7 @@
 <?php
-/**
- * Created by IntelliJ IDEA.
- * User: dgwartne
- * Date: 10/14/15
- * Time: 5:44 PM
- */
+$url = 'http://localhost/book/form-page.php';
+$data = array("category"=> "technology", "rows"=> 20);
+$get_addr = $url . '?' .http_build_query($data);
+$page = file_get_contents($get_addr);
+echo $page;
+

@@ -24,7 +24,7 @@
 <p id="tag-line"><em>The ultimate in discounted flights as long as you can Fly By Night&reg;</em></p>
 </div>
 
-<form class="form-horizontal" role="form" method="post" action="api/signup.php"/>
+<form class="form-horizontal" role="form" method="post" action="/api/signup.php">
     <div class="form-group">
         <label class="control-label col-sm-2" for="user">User Id:</label>
 

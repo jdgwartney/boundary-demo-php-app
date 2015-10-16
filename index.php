@@ -20,7 +20,7 @@
 <body>
 <div class="container">
 <h1><?php echo gethostname() ?></h1>
-<a href="forms/sign-up.php"><h1>Sign Up!</h1></a>
+<a href="/forms/signup.php"><h1>Sign Up!</h1></a>
 </div>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
