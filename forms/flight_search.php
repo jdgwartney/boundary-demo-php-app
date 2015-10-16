@@ -35,7 +35,7 @@
     </div>
 </div>
 
-<form name="search" class="form-horizontal" role="form" action="http://api/search.php" method="get">
+<form name="search" class="form-horizontal" role="form" action="/api/search.php" method="get">
     <div class="form-group">
         <label class="control-label col-sm-2" for="email">From:</label>
         <div class="col-sm-3">
@@ -60,12 +60,6 @@
         </div>
     </div>
 </form>
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="/js/bootstrap.min.js"></script>
-</body>
-</html></h1>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
