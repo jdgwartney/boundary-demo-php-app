@@ -5,7 +5,7 @@ set_include_path(get_include_path() . PATH_SEPARATOR . $path);
 require 'Mustache/Autoloader.php';
 
 
-$conn = new mysqli($db_host, $db_user, $db_password, $db_database);
+$conn = new mysqli($db_app_host, $db_app_user, $db_app_password, $db_app_database);
 if ($conn->connect_error) die($conn->connect_error);
 ?>
 

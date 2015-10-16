@@ -35,34 +35,25 @@
     </div>
 </div>
 
-<form name="search" class="form-horizontal" role="form" action="/api/search.php" method="post">
+<form name="search" class="form-horizontal" role="form" action="http://api/search.php" method="get">
     <div class="form-group">
         <label class="control-label col-sm-2" for="email">From:</label>
         <div class="col-sm-3">
-            <input id="from" type="text" class="form-control" id="from" placeholder="Enter departure airport">
+            <input id="from" name="from" type="text" class="form-control" placeholder="Enter departure airport">
         </div>
     </div>
     <div class="form-group" float="left">
         <label class="control-label col-sm-2" for="to">To:</label>
         <div class="col-sm-3">
-            <input id="to" type="text" class="form-control" id="to" placeholder="Enter to airport">
+            <input id="to" name="to" type="text" class="form-control" placeholder="Enter to airport">
         </div>
     </div>
     <div class="form-group">
-        <label class="control-label col-sm-2" for="departure-date">Departing:</label>
+        <label class="control-label col-sm-2" for="departure">Departing:</label>
         <div class="col-sm-3">
-            <input id="departure-date" type="date" class="form-control" id="to" placeholder="Enter Departure Date">
+            <input id="departure" name="departure" type="date" class="form-control" placeholder="Enter Departure Date">
         </div>
     </div>
-    <!--
-    <div class="form-group">
-        <label class="control-label col-sm-2" for="arrival-date">Arriving:</label>
-
-        <div class="col-sm-3">
-            <input id="arrival-date" type="date" class="form-control" id="to" placeholder="Enter to airport">
-        </div>
-    </div>
-    -->
     <div class="form-group">
         <div class="col-sm-offset-2 col-sm-3">
             <button type="search" class="btn btn-default">Search</button>

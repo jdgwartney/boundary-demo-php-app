@@ -7,8 +7,8 @@
         $user = "";
     }
 */
-$user = $_POST['user'];
-$email = $_POST['email'];
+$user = $_GET['user'];
+$email = $_GET['email'];
         echo <<<_END
 <!DOCTYPE html>
 <html>

@@ -1,4 +1,8 @@
 <?php
+
+$from = $_GET['from'];
+$to = $_GET['to'];
+$departure = $_GET['departure'];
 require_once 'db/login.php';
 $db_connection = new mysqli($db_host, $db_user, $db_password, $db_database);
 if ($db_connection->connect_error) die($db_connection->connect_error);
