@@ -30,14 +30,10 @@ if ($db_connection->connect_error) die($db_connection->connect_error);
     <![endif]-->
 </head>
 <body>
-<div class="container-fluid">
-    <div class="col-sm-1">
-        <img id="logo" src="/images/fly-by-night.png"/>
-    </div>
-    <div class="col-sm-3">
-        <h1>Fly By Night</h1>
-    </div>
-</div>
+
+<?php
+include "../forms/mast_head.php"
+?>
 
 <div class="container-fluid">
     <div class="col-sm-8">
@@ -88,13 +84,6 @@ if ($db_connection->connect_error) die($db_connection->connect_error);
         </tbody>
     </table>
 </div>
-
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="/js/bootstrap.min.js"></script>
-</body>
-</html></h1>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

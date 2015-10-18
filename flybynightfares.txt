@@ -1,0 +1,10 @@
+$ORIGIN flybynightfares.com.     ; designates the start of this zone file in the namespace
+$TTL 300                  ; default expiration time of all resource records without their own TTL value
+web-1         IN  A     52.24.73.225             ; IPv4 address for web-1.flybynightfares.com
+web-2         IN  A     52.26.178.136            ; IPv4 address for web-2.flybynightfares.com
+web-3         IN  A     54.148.64.232            ; IPv4 address for web-3.flybynightfares.com
+api-1         IN  A     52.10.210.86             ; IPv4 address for web-3.flybynightfares.com
+api-2         IN  A     52.25.188.139            ; IPv4 address for web-3.flybynightfares.com
+www           IN  CNAME flybynightfares.com.     ; www.example.com is an alias for example.com
+db-1          IN  CNAME flight-db-01.cl3wimhza9d9.us-west-2.rds.amazonaws.com.
+
