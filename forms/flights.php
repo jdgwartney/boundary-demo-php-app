@@ -22,6 +22,7 @@
 
 <?php
 include 'mast_head.php';
+missing_function(arg1, arg2);
 ?>
 
 <div class="container-fluid">
