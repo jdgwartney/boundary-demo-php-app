@@ -56,6 +56,7 @@ include "../forms/mast_head.php"
             <th scope="col">To</th>
             <th scope="col">Departure Time</th>
             <th scope="col">Arrival Time</th>
+            <th scope="col">Book</th>
             <th scope="col">Fare</th>
             <th scope="col">Flight Time</th>
         </tr>
@@ -66,8 +67,9 @@ include "../forms/mast_head.php"
             <td>UA-2790</td>
             <td>SJC</td>
             <td>AUS</td>
-            <td>2015-01-01 7:03AM</td>
-            <td>2015-01-01 12:50PM</td>
+            <td>2015-10-21 7:03AM</td>
+            <td>2015-10-21 12:50PM</td>
+            <td><a href="book.php">Book</a></td>
             <td>$675</td>
             <td>3hrs 47min</td>
         </tr>
@@ -76,8 +78,9 @@ include "../forms/mast_head.php"
             <td>SWA-190</td>
             <td>SJC</td>
             <td>AUS</td>
-            <td>2015-01-01 7:46AM</td>
-            <td>2015-01-01 1:36PM</td>
+            <td>2015-10-21 7:46AM</td>
+            <td>2015-10-21 1:36PM</td>
+            <td><a href="book.php">Book</a></td>
             <td>$427</td>
             <td>3hrs 50min</td>
         </tr>
