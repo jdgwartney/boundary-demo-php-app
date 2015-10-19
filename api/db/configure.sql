@@ -46,3 +46,434 @@ CREATE TABLE flights
   fltime VARCHAR(32),
   PRIMARY KEY (id)
 );
+
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
+
+INSERT INTO flights(airline, flight, from_airport, to_airport, departure, arrival, fltime)
+VALUES('United Airlines', 'UA-2790','SJC','AUS 2015-10-21 7:03AM', '2015-10-21 12:50PM', '$675', '3hrs 47min');
