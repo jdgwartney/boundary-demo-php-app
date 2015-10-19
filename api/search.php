@@ -3,9 +3,9 @@
 $from = $_GET['from'];
 $to = $_GET['to'];
 $departure = $_GET['departure'];
-require_once 'db/login.php';
-$db_connection = new mysqli($db_app_host, $db_app_user, $db_app_password, $db_app_database);
-if ($db_connection->connect_error) die($db_connection->connect_error);
+// require_once 'db/login.php';
+// $db_connection = new mysqli($db_app_host, $db_app_user, $db_app_password, $db_app_database);
+// if ($db_connection->connect_error) die($db_connection->connect_error);
 
 ?>
 
