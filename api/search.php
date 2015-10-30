@@ -67,8 +67,8 @@ include "../forms/mast_head.php"
             <td>UA-2790</td>
             <td>SJC</td>
             <td>AUS</td>
-            <td>2015-10-21 7:03AM</td>
-            <td>2015-10-21 12:50PM</td>
+            <td>2015-11-21 7:03AM</td>
+            <td>2015-11-21 12:50PM</td>
             <td><a href="book.php">Book</a></td>
             <td>$675</td>
             <td>3hrs 47min</td>
@@ -78,8 +78,8 @@ include "../forms/mast_head.php"
             <td>SWA-190</td>
             <td>SJC</td>
             <td>AUS</td>
-            <td>2015-10-21 7:46AM</td>
-            <td>2015-10-21 1:36PM</td>
+            <td>2015-11-21 7:46AM</td>
+            <td>2015-11-21 1:36PM</td>
             <td><a href="book.php">Book</a></td>
             <td>$427</td>
             <td>3hrs 50min</td>
